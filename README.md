@@ -1,0 +1,1 @@
+This repository contains the source code and documentation for the algorithms used in the work "IDSD: A novel algorithm for credibility-based Subgroup Discovery for clinical data".
