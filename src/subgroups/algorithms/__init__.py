@@ -2,3 +2,8 @@ from subgroups.algorithms.algorithm import Algorithm
 from subgroups.algorithms.subgroup_lists.gmsl import GMSL
 from subgroups.algorithms.subgroup_lists.psld import PSLD
 from subgroups.algorithms.subgroup_lists.dslm import DSLM
+from subgroups.algorithms.subgroup_sets.bsd import BSD
+from subgroups.algorithms.subgroup_sets.sdmap import SDMap
+from subgroups.algorithms.subgroup_sets.sdmapstar import SDMapStar
+from subgroups.algorithms.subgroup_sets.qfinder import QFinder
+from subgroups.algorithms.subgroup_sets.idsd import IDSD
