@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Antonio López Martínez-Carrasco <antoniolopezmc1995@gmail.com>
+
 
 """This file contains the implementation of the root class of all the implemented Vertical Lists (data structure used by the VLSD algorithm). Conceptually, a Vertical List is similar to a Subgroup. This class is an abstract class and cannot be instantiated.
 """

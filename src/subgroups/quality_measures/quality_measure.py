@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Antonio López Martínez-Carrasco <antoniolopezmc1995@gmail.com>
+
 
 """This file contains the implementation of the root class of all the implemented quality measures. This class is an abstract class and cannot be instantiated.
 """

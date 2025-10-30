@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Antonio López Martínez-Carrasco <antoniolopezmc1995@gmail.com>
+
 
 """This file contains the implementation of the F1 Score. This quality measure is also called as F1 Measure.
 """

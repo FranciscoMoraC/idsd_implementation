@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Antonio López Martínez-Carrasco <antoniolopezmc1995@gmail.com>
+
 
 """This file contains the implementation of different functions used to transform the resulting files obtained by the algorithms.
 """

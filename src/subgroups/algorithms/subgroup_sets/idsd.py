@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Francisco Mora-Caselles <fmora@um.es>
+
 
 """This file contains the implementation of the Iterative-Depeening Subgroup Discovery algorithm.
 """

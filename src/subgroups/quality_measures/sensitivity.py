@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Contributors:
-#    Antonio López Martínez-Carrasco <antoniolopezmc1995@gmail.com>
+
 
 """This file contains the implementation of the Sensitivity quality measure. This quality measure is also called as Recall or True Positive Rate.
 """
